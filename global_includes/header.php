@@ -42,10 +42,10 @@
                     <ul class="nav">
 
 <?php
-    //need some php here to mark the "active" links.
+    //TODO: need some php here to mark the "active" links.
 ?>
-                        <li class="active"><a href="#">Home</a></li>
-                        <li><a href="projects.php">Projects</a></li>
+                        <li class="active"><a href="/">Home</a></li>
+                        <li><a href="portfolio.php">Portfolio</a></li>
                         <li><a href="resume.php">Resume</a></li>
                         <li><a href="about.php">About</a></li>
 
