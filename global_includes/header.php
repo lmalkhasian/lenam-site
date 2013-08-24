@@ -15,8 +15,9 @@
         <link rel="stylesheet" href="css/bootstrap.min.css">
         <style>
             body {
-                padding-top: 60px;
-                padding-bottom: 40px;
+                <!--padding-top: 60px;
+                padding-bottom: 40px;-->
+            background:black;
             }
         </style>
         <link rel="stylesheet" href="css/bootstrap-responsive.min.css">
