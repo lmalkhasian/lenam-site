@@ -4,7 +4,7 @@
 
     <div class="hero-unit">
         <h1>Lena Malkhasian</h1>
-        <p>I am a Master's student at Carnegie Mellon University studying Human-computer interaction. I'm also a programming ninja</p>
+        <p>I am a Master's student at Carnegie Mellon University studying Human-computer interaction. I'm also a programming ninja.</p>
         <!--<p><a class="btn btn-primary btn-large" href="about.php">Learn more &raquo;</a></p>-->
     </div>
     
@@ -12,7 +12,7 @@
         <p>"Always be happy, but never be satisfied"</p>
     </div
 
-    <div class="row">
+    <div class="row-fluid">
         <div class="span8">
             <p> A bunch of bullshit text about myself. blah blah blah.</p>
             <p> More and more and more and more text here.</p>

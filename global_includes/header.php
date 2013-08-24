@@ -37,7 +37,7 @@
                 <span class="icon-bar"></span>
                 <span class="icon-bar"></span>
                 </a>
-                <a class="brand" href="#">Lena m.</a>
+                <a class="brand" href="/">Lena m.</a>
                 <div class="nav-collapse collapse">
                     <ul class="nav">
 
