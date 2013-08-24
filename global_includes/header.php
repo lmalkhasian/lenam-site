@@ -31,7 +31,10 @@
 
         <!-- This code is taken from http://twitter.github.com/bootstrap/examples/hero.html -->
 
-        <div class="navbar navbar-inverse navbar-fixed-top">
+        <div class="masthead" style="width:100%">
+                    <img src="img/banner.png"/>
+        </div>
+        <div class="navbar navbar-inverse">
             <div class="navbar-inner">
                 <div class="container">
                 <a class="btn btn-navbar" data-toggle="collapse" data-target=".nav-collapse">
