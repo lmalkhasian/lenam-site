@@ -5,7 +5,7 @@
     <h1>Resume</h1>
     <br/>
     <h3><a href="lmalkhasianResume.pdf">DOWNLOAD PDF</a></h3>
-
+    <br/>
     <div>
     <img src="img/lmalkhasianResume.jpg" />
     </div>
