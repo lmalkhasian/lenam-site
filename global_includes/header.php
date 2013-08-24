@@ -1,3 +1,5 @@
+<?php include 'php/nav.php'; ?>
+
 <!DOCTYPE html>
     <!--[if lt IE 7]>      <html class="no-js lt-ie9 lt-ie8 lt-ie7"> <![endif]-->
     <!--[if IE 7]>         <html class="no-js lt-ie9 lt-ie8"> <![endif]-->
@@ -43,26 +45,11 @@
 
 <?php
     //TODO: need some php here to mark the "active" links.
+    $page = basename($_SERVER['PHP_SELF']);
 ?>
-                        <li class="active"><a href="/">Home</a></li>
-                        <li><a href="portfolio.php">Portfolio</a></li>
-                        <li><a href="resume.php">Resume</a></li>
-
-                        <li class="dropdown">
-                        <a href="#" class="dropdown-toggle" data-toggle="dropdown">Dropdown <b class="caret"></b></a>
-                        <ul class="dropdown-menu">
-                            <li><a href="#">Action</a></li>
-                            <li><a href="#">Another action</a></li>
-                            <li><a href="#">Something else here</a></li>
-                            <li class="divider"></li>
-                            <li class="nav-header">Nav header</li>
-                            <li><a href="#">Separated link</a></li>
-                        <li><a href="#">One more separated link</a></li>
-                        </ul>
-                        </li>
-<?php
-    //end here.
-?>
+                        <li class="<?php echo ($page == "index.php" ? "active" : "")?>"><a href="/">Home</a></li>
+                        <li class="<?php echo ($page == "portfolio.php" ? "active" : "")?>"><a href="portfolio.php">Portfolio</a></li>
+                        <li class="<?php echo ($page == "resume.php" ? "active" : "")?>" ><a href="resume.php">Resume</a></li>
                     </ul>
                     <!--
                         <form class="navbar-form pull-right">

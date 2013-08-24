@@ -3,11 +3,14 @@
 <div class="container">
 
     <h1>Resume</h1>
+
     <br/>
-    <h3><a href="lmalkhasianResume.pdf">DOWNLOAD PDF</a></h3>
-    <br/>
+
+    <h4><a href="lmalkhasianResume.pdf">DOWNLOAD PDF</a></h4>
+
     <div>
-    <img src="img/lmalkhasianResume.jpg" />
+        <br/>
+        <img src="img/lmalkhasianResume.jpg" />
     </div>
 
 </div> <!-- /container -->

@@ -12,12 +12,12 @@
         <p>"Always be happy, but never be satisfied"</p>
     </div
 
-    <div class="row-fluid">
-        <section class="span8">
+    <div class="row">
+        <div class="span4">
             <p> A bunch of bullshit text about myself. blah blah blah.</p>
             <p> More and more and more and more text here.</p>
-        </section>
-        <section class="span4">
+        </div>
+        <div class="span4">
             <img src="img/design.jpg" />
         </div>
     </section>
