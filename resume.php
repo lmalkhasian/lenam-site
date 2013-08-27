@@ -2,16 +2,16 @@
 
 <div class="container">
 
-    <h1>Resume</h1>
+<!--    <h1>Resume</h1>
+-->
 
-    <br/>
+<p><a href="lmalkhasianResume.pdf">(Download PDF version here.)</a></p>
 
-    <h4><a href="lmalkhasianResume.pdf">DOWNLOAD PDF</a></h4>
-
-    <div>
+    <div class="container">
         <br/>
-        <img src="img/lmalkhasianResume.jpg" />
+        <img src="img/lmalkhasianResume2.jpg" />
     </div>
+
 
 </div> <!-- /container -->
 

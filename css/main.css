@@ -3,7 +3,23 @@
 /* ==========================================================================
    Author's custom styles
    ========================================================================== */
+body {
 
+}
+
+h1, h2, h3, h4, h5, h6 {
+
+    color: rgb(48, 193, 158);
+    font-family: georgia;
+    text-align: center;
+    
+
+}
+
+footer {
+    color:grey;
+    text-align:center
+}
 
 
 

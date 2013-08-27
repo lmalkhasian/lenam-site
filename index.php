@@ -2,24 +2,19 @@
 
 <div class="container">
 
-    <div>
-        <h1>Lena Malkhasian</h1>
-        <br/>
-        <p>I am a Master's student at Carnegie Mellon University studying Human-computer interaction. I'm also a programming badass.</p>
-        <!--<p><a class="btn btn-primary btn-large" href="about.php">Learn more &raquo;</a></p>-->
+
+    <div class="row">
+        <div class="span8">
+            <h1>Welcome!</h1>
+            <br/>
+            <p>My name is Lena Malkhasian. I'm a Master's student at Carnegie Mellon University studying Human-computer interaction. I'm also a programming badass.</p>
+            <p>I got my Bachelor's degree in Computer Science from the University of Michigan. <strong style="color:blue">GO BLUE!</strong> I'm currently living in Pittsburgh, learning the ins and outs of being an interaction designer at CMU. </p>
+            <p>I'm excited to see where this year will take me :) .</p>
+        </div>
+        <div class="span4">
+            <img src="img/lena.png" />
+        </div>
     </div>
-
-
-    <div>
-        <div style="float:right;">
-            <img src="img/design.jpg" />
-        </div>
-        <div>
-            <p> A bunch of bullshit text about myself. blah blah blah.</p>
-            <p> More and more and more and more text here.</p>
-        </div>
-
-    </section>
 
 
 </div> <!-- /container -->

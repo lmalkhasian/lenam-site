@@ -1,10 +1,17 @@
         <hr>
         <div class="container">
             <footer>
-                <p>&copy; Lena Malkhasian</p>
-                <a href="">linked in</a>
+                <p>&copy; 2013 Lena Malkhasian<br/>
+                Questions? Comments? Want to say hello?<br/>
+                Contact me!<br/>
+                lmalkhasian [at] gmail [dot] com</p>
+
+                <a href="http://www.linkedin.com/pub/lena-malkhasian/75/7a3/289/"><img height="30px" width="30px" alt="Linked in" src="img/linkedin.png" /></a>
+                <a href=""><img height="30px" width="30px" alt="Twitter" src="img/twitter.png" /></a>
+                <a href=""><img height="30px" width="30px" alt="Instagram" src="img/instagram.png" /></a>
             </footer>
         <div>
+        </div>
 
         <script src="//ajax.googleapis.com/ajax/libs/jquery/1.10.1/jquery.min.js"></script>
         <script>window.jQuery || document.write('<script src="js/vendor/jquery-1.10.1.min.js"><\/script>')</script>
